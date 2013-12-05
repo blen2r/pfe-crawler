@@ -7,7 +7,7 @@ This crawler respects the robots.txt standard (http://www.robotstxt.org/), as im
 
 If you wish to stop this crawler from crawling your website, simply add these lines to your robots.txt file:
 
-	User-agent: MLBot
+	User-agent: pfe-crawler
 	Disallow: *
 
 
